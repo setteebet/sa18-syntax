@@ -1,18 +1,18 @@
 {
   "name": "sa18-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "เว็บ999lotto✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"เว็บ999lotto",
-"เศรษฐีเว็บหวย",
-"หวยยี่กี lottovip",
-"หวยในเว็บ",
-"lottovip เว็บตรง"
-],
+  "version": "0.2.0",
+  "description": "เว็บ999lotto✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "เว็บ999lotto",
+    "เศรษฐีเว็บหวย",
+    "หวยยี่กี lottovip",
+    "หวยในเว็บ",
+    "lottovip เว็บตรง"
+  ],
   "repository": "https://github.com/setteebet/sa18-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
